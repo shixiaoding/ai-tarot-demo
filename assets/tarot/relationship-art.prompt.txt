@@ -1,0 +1,8 @@
+Use case: illustration-story / precise-object-edit.
+Create ONE standalone raster illustration asset for a mobile tarot app, based on the supplied screenshot.
+The input screenshot is a REFERENCE ONLY. The requested artwork is the small scene inside the LEFT "感情关系" entry near the bottom, around source pixels x37–415,y1175–1310. Extract and faithfully redraw that scene as its own clean panoramic illustration, not the whole screen, not a crop containing UI.
+Target width-to-height ratio 2.7:1, e.g. 1080 by 400. Opaque image, no transparency, full bleed art only.
+Subject and composition: a large warm gold crescent moon and softly glowing circular moon disc/ring together centered above a quiet lake; layered indigo and mist-violet distant mountain silhouettes on both sides; gold reflection on still water below; a few tiny refined star sparks in the navy sky. The crescent, ring, mountains, and lake should closely match the reference's left entry illustration. Keep the existing exact navy/violet/warm-gold color language and refined modern storybook painting texture.
+The upper two thirds should contain the scene, the lower third gradually settles into a calm almost-solid deep navy #101c3b, with no hard horizon edge at the bottom, so it can blend with a dark UI tile.
+Avoid all typography, Chinese or English text, titles, logos, badges, dates, buttons, arrows, rounded card borders, UI panels, phone hardware, people, animals, tarot cards, foreground props, extra rings, photorealism, oversaturated purple. No watermark.
+Output only this one landscape artwork asset.
